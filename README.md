@@ -1,2 +1,2 @@
 # LTSpice
-Public LTSpice stuff
+My LTSpice stuff released to Public Domain (CC0)
